@@ -1,25 +1,16 @@
 /*  your css code here. If applicable */
- body {
-            background-color: #f7fbff;
-        }
+.block-heading h2 {
+  color: #39b9e0;
+}
 
-        .block-heading h2 {
-            color: #39b9e0;
-        }
+.summary {
+  border: 1px solid #e4f3f3;
+  background-color: #f7fbff;
+  border-radius: 8px;
+  border-top:2px solid #5ea4f3;
+}
 
-        .summary {
-            border: 1px solid #e4f3f3;
-            background-color: #f7fbff;
-            border-radius: 8px;
-            border-top: 2px solid #5ea4f3;
-            height:100%;
-        }
-
-        h6 {
-            color: #39b9e0;
-        }
-
-        .product img {
-            width: 100px;
-            height: auto;
-        }
+.product img {
+  width: 100px;
+  height: auto;
+}
